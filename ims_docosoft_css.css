@@ -4,3 +4,7 @@ background-color: #cddf1a !important;
     color: #1A083D !important;
     font-weight: bold !important;
 }
+
+*{
+border: 1px solid red !important;
+}
