@@ -5,6 +5,6 @@ background-color: #cddf1a !important;
     font-weight: bold !important;
 }
 
-body{
+body.home{
 border: 3px solid red !important;
 }
