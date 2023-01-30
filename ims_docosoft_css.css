@@ -1,11 +1,2 @@
-.wpcf7 form.sent .wpcf7-response-output {
-    border-color: #cddf1a !important;
-background-color: #cddf1a !important;
-    color: #1A083D !important;
-    font-weight: bold !important;
-}
-
-.footer.section{
-border-top: 3px solid #33bec3 !important;
-}
+.wpcf7 form.sent .wpcf7-response-output {border-color: #cddf1a !important; background-color: #cddf1a !important; color: #1A083D !important; font-weight: bold !important; } .hero-block .hero-block__main-title {font-weight: 300; }
 
